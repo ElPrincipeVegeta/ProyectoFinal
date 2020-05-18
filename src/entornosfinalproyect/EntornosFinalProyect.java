@@ -3,10 +3,12 @@ package entornosfinalproyect;
 /**
  *
  * @author Jaime Martín Soto
+ * @version 1.0.14
  */
 public class EntornosFinalProyect {
 
     /**
+     * main es la clase principal del programa donde ejecutaremos los métodos de las demás
      * @param args the command line arguments
      */
     public static void main(String[] args) {
